@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+   <title>My book<title>
+</head>
+<body>
+<text>I read the book wizard of oz</text>
+<h1>inserted image:</h1>
+<image src='downloads/wizard oz.jpg' />  'width='300'height'=168
+</body>
+</html>
